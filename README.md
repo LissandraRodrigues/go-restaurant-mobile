@@ -36,7 +36,9 @@
 
 <br>
 
-Este projeto é resultado do meu décimo desafio de código no <a href="https://rocketseat.com.br/gostack">bootcamp Go Stack da Rocketseat. </a> Nele fui desafiada a colocar em prática tudo que aprendi sobre React Native junto com TypeScript.
+Este projeto é resultado do meu décimo desafio de código no <a href="https://rocketseat.com.br/gostack">bootcamp Go Stack da Rocketseat. </a> Nele fui desafiada a colocar em prática tudo que aprendi sobre React Native junto com TypeScript através da aplicação GoRestaurant.
+
+<img src='capa-go-restaurant.png' />
 
 ## :rocket: Tecnologias ##
 
