@@ -9,7 +9,7 @@
   <h1 align="center"> Go Restaurant Mobile </h1>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/progress-10%25-brightgreen.svg" alt="PRs Welcome">
+   <img src="https://img.shields.io/badge/progress-100%25-brightgreen.svg" alt="PRs Welcome">
    <img src = "https://img.shields.io/github/issues/LissandraRodrigues/go-restaurant-mobile" />
    <img src = "https://img.shields.io/github/forks/LissandraRodrigues/go-restaurant-mobile" />
    <img src = "https://img.shields.io/github/stars/LissandraRodrigues/go-restaurant-mobile" />
